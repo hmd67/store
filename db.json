@@ -3,21 +3,21 @@
 			"id": 1,
 			"product_name":   "شلوار"
 			"price":11000
-			"off_precent:40
+			"off_precent":40
 			"imgUrl": "http://besenior.ir/flutter_ecom_project/pageViewAsset/pic1.jpg"
 		},
 		{
 			"id": 2,
 			"product_name":   "پیراهن"
 			"price":11000
-			"off_precent:40
+			"off_precent":40
 			"imgUrl": "http://besenior.ir/flutter_ecom_project/pageViewAsset/pic2.jpg"
 		},
 		{
 			"id": 3,
 			"product_name":   "تی شرت"
 			"price":11000
-			"off_precent:40
+			"off_precent":40
 			"imgUrl": "http://besenior.ir/flutter_ecom_project/pageViewAsset/pic3.jpg"
 		},
 	]
